@@ -1,0 +1,3 @@
+DOTOKEN=<digitalocean-api-token>
+num_nodes=3
+
